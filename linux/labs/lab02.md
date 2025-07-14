@@ -1,8 +1,8 @@
-# Lab 2 - File manipulation
+# Lab 2 - cat / tail / head
 
-- Create: file1.txt, file3.txt, dir1, dir2
-- Copy a file named `file1.txt` to `file2.txt`.
-- Move `file2.txt` to a directory named `dir2`.
-- Remove a file named `file3.txt`.
-- Try to remove a directory named `dir2` with rmdir and explain why it does or doesn't work.
-- Remove `dir2` including its contents.
+## File Content:
+
+1. Using `man cat` , find a way to display the line number of the file `/etc/passwd`
+2. Show the first 5 lines of `/etc/passwd`?
+3. Show the last 3 lines of `/etc/passwd`?
+4. Search online how to skip the first 3 lines and show the rest of the file and display the content of`/etc/passwd` from line 4 to the end of the file /etc/passwd.
