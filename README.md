@@ -6,6 +6,10 @@ Course materials of the HSBC Graduate Training 2025 in Xi'an.
 - Networking
 
 ## Day 2 - 15/July/2025
+Zoom Link: https://us06web.zoom.us/j/81546421422?pwd=xsvsSIPUb8nylo6rT9xOkaOvH0SeCW.1
+password: 484675
+
+
 - Linux
 - SQL
   - install Docker: https://docs.docker.com/desktop/setup/install/windows-install/
