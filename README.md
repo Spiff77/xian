@@ -7,3 +7,5 @@ Course materials of the HSBC Graduate Training 2025 in Xi'an.
 
 ## Day 2 - 15/July/2025
 - Linux
+- SQL
+
