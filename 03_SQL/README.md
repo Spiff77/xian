@@ -12,5 +12,9 @@ Open the command line (Windows-key + R, then type `cmd`) or open the Power Shell
 Then type:
 
 ```bash
-docker run --name mysql-db -e MYSQL_ROOT_PASSWORD=myPa$$word -e MYSQL_DATABASE=car -p 3306:3306 -d mysql:latest
+docker run --name mysql-container \
+  -e MYSQL_ROOT_PASSWORD=passw0rd \
+  -v $(pwd)/mysql-data:/var/lib/mysql \
+  -p 3306:3306 \
+  -d mysql:latest
 ```
