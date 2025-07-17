@@ -25,5 +25,5 @@ Zoom Link: [HERE](https://us06web.zoom.us/j/81546421422?pwd=xsvsSIPUb8nylo6rT9xO
 - Git (cont)
 - Programming Languages
   - [The Hello World Collection](http://helloworldcollection.de/)
-- - [Bizarre programming languages](https://www.hongkiat.com/blog/bizarre-insane-programming-languages/)
+  - [Bizarre programming languages](https://www.hongkiat.com/blog/bizarre-insane-programming-languages/)
 - GenAI
