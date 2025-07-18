@@ -6,7 +6,7 @@ Course materials of the HSBC Graduate Training 2025 in Xi'an.
 Zoom Link: [Click here to join](https://us06web.zoom.us/j/81546421422?pwd=xsvsSIPUb8nylo6rT9xOkaOvH0SeCW.1) 📹
 
 ## Project
-⚠️ [Link to project description](https://neueda-training.atlassian.net/wiki/spaces/neuedainst/pages/217022861/Project+Presentations+and+Assessment+and+Wrap+Up+Suggested+Schedule) ⚠️
+⚠️ [Link to original project description](project_description.md) ⚠️
 
 Important things to remember:
 - You need to have the backend in JavaScript (as we learn in the course). The Frontend is in HTML and JavaScript. Use MySQL for the database. You need to do at least one external API call.
@@ -22,7 +22,7 @@ Important things to remember:
 
 ## Day 1 - 14/July/2025
 - Link to Neueda Website: https://sites.neueda.com/hsbcxian/site/index.html
-- Networking
+- [Networking](01_networking/)
 
 ## Day 2 - 15/July/2025
 - Linux
