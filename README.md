@@ -57,5 +57,5 @@ Zoom Link: [Click here to join](https://us06web.zoom.us/j/81546421422?pwd=xsvsSI
 
 ## Day 5 - 18/July/2025
 - [GenAI](06_GenAI/GenAIAssistant.pdf) (cont)
-- Tickets / Jira
+- [Tickets / Jira](07_Jira/Intro_Ticketing_System.pdf)
 - Risk assessment
