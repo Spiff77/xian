@@ -1,6 +1,23 @@
 # Portfolio Manager Training Project
 
-[TOC]
+- [Portfolio Manager Training Project](#portfolio-manager-training-project)
+  - [Overview](#overview)
+  - [Technical Goals](#technical-goals)
+  - [Notes](#notes)
+  - [Technical Getting Started Checklist](#technical-getting-started-checklist)
+  - [Project Management Getting Started Checklist](#project-management-getting-started-checklist)
+  - [Suggestions for Success](#suggestions-for-success)
+  - [Project Presentations](#project-presentations)
+    - [Presentation Guidelines](#presentation-guidelines)
+    - [Presentation Mechanics](#presentation-mechanics)
+  - [Appendix A: Notes on Teamwork](#appendix-a-notes-on-teamwork)
+  - [Appendix B: UI Ideas](#appendix-b-ui-ideas)
+  - [Appendix C: Useful links](#appendix-c-useful-links)
+  - [Appendix D: Financial Data](#appendix-d-financial-data)
+    - [Java Projects](#java-projects)
+    - [Python Projects](#python-projects)
+    - [Sample REST API](#sample-rest-api)
+
 
 ## Overview
 
