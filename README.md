@@ -25,26 +25,27 @@ Important things to remember:
 - [Networking](01_networking/)
 
 ## Day 2 - 15/July/2025
-- Linux
+- [Linux](02_linux/)
   - vim: https://vim-adventures.com/
-- SQL
+- [SQL](03_SQL/)
   - install Docker: https://docs.docker.com/desktop/setup/install/windows-install/
   - install MySQL Workbench: https://dev.mysql.com/downloads/workbench/
   - run MySQL: `docker run --name mysql-container -e MYSQL_ROOT_PASSWORD=passw0rd -v $(pwd)/mysql-data:/var/lib/mysql -p 3306:3306 -d mysql:latest`
 
 ## Day 3 - 16/July/2025
-- SQL (cont)
-- Git
+- [SQL](03_SQL/) (cont)
+- [Git](04_GIT/)
   - https://gitforwindows.org
+  - https://ohmygit.org
 
 ## Day 4 - 17/July/2025
-- Git (cont)
-- Programming Languages
+- [Git](04_GIT/)
+- [Programming Languages](05_programming_languages/)
   - [The Hello World Collection](http://helloworldcollection.de/)
   - [Bizarre programming languages](https://www.hongkiat.com/blog/bizarre-insane-programming-languages/)
-- GenAI
+- [GenAI](06_GenAI/GenAIAssistant.pdf)
 
 ## Day 5 - 18/July/2025
-- GenAI (cont)
+- [GenAI](06_GenAI/GenAIAssistant.pdf) (cont)
 - Tickets / Jira
 - Risk assessment
