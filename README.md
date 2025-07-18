@@ -2,7 +2,12 @@
 Course materials of the HSBC Graduate Training 2025 in Xi'an.
 
 ## Meeting
-Zoom Link: [HERE](https://us06web.zoom.us/j/81546421422?pwd=xsvsSIPUb8nylo6rT9xOkaOvH0SeCW.1)
+Zoom Link: [Click here to join](https://us06web.zoom.us/j/81546421422?pwd=xsvsSIPUb8nylo6rT9xOkaOvH0SeCW.1) 📹
+
+## Project
+⚠️ [Link to project description](https://neueda-training.atlassian.net/wiki/spaces/neuedainst/pages/217022861/Project+Presentations+and+Assessment+and+Wrap+Up+Suggested+Schedule) ⚠️
+
+# Day to day schedule
 
 ## Day 1 - 14/July/2025
 - Link to Neueda Website: https://sites.neueda.com/hsbcxian/site/index.html
@@ -27,3 +32,8 @@ Zoom Link: [HERE](https://us06web.zoom.us/j/81546421422?pwd=xsvsSIPUb8nylo6rT9xO
   - [The Hello World Collection](http://helloworldcollection.de/)
   - [Bizarre programming languages](https://www.hongkiat.com/blog/bizarre-insane-programming-languages/)
 - GenAI
+
+## Day 5 - 18/July/2025
+- GenAI (cont)
+- Tickets / Jira
+- Risk assessment
