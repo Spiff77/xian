@@ -53,7 +53,7 @@ Zoom Link: [Click here to join](https://us06web.zoom.us/j/81546421422?pwd=xsvsSI
 - [Programming Languages](05_programming_languages/)
   - [The Hello World Collection](http://helloworldcollection.de/)
   - [Bizarre programming languages](https://www.hongkiat.com/blog/bizarre-insane-programming-languages/)
-- [GenAI](06_GenAI/GenAIAssistant.pdf)
+- [GenAI](08_GenAI/GenAIAssistant.pdf)
 
 ## Day 5 - 18/July/2025
 - [GenAI](06_GenAI/GenAIAssistant.pdf) (cont)
