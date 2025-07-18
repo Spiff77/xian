@@ -18,8 +18,7 @@ Zoom Link: [Click here to join](https://us06web.zoom.us/j/81546421422?pwd=xsvsSI
 - Make the frontend look beautiful!
 - Add a README file to your git project.
 
-<details>
-<summary>**Frequently asked questions (FAQ):**</summary>
+**Frequently asked questions (FAQ):**
 - Backend language: Javascript
 - Minimum requirement is to do a CRUD for the stocks inside the portfolio (**c**reate new entries, **r**ead entries, **u**pdate entries, **d**elete entries)
 - Frontend: at least Javascript, you can do anything, you feel comfortable with. But don't try out something new, you will loose time, which you will not have.
@@ -27,7 +26,7 @@ Zoom Link: [Click here to join](https://us06web.zoom.us/j/81546421422?pwd=xsvsSI
 - Project start: now.
 - A protfolio is for managing your stocks.
 - Everything is good, as long as you can explain, why you did it.
-  </details>
+
 
 # Day to day schedule
 
